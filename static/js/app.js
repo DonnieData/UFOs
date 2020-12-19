@@ -23,7 +23,7 @@ function buildTable(data) {
             }
         );
     });
-}
+};
 
 // creating filters 
 
@@ -49,7 +49,7 @@ function handleClick() {
 };
 
 // on click execute handlebar function when #filter-btn is clicked
-d3.selectAll("#filter-btn").on("click",handleClick)
+d3.selectAll("#filter-btn").on("click",handleClick);
 
 // Build the table when the page loads
 buildTable(tableData);
