@@ -27,7 +27,7 @@ Users can input a search criteria on the web page within the fields shown below.
 The web page is able to filter by single parameter or multipe, returning the results (rows of data) that meet the provided paramters. 
 
 ex. to searching for UFO sighting occurences by date -- simply enter the desired date in 00/00/0000 format. 
-![search]()
+![search](https://github.com/DonnieData/UFOs/blob/main/resource/img/search.png)
 
 
 ## Summary 
