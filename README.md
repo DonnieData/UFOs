@@ -9,8 +9,8 @@ Building a dynamic webpage to filter and display data  using JavaScript.
 ## Overview 
 The purpose of this project is to build a dynamic web application by utilizing javascript and html. 
 
-### Components  
-#Data 
+## Components  
+###Data 
 [The data]() that is parsed and displayed via the web page is in JSON format.
 
 ### JavaScript 
@@ -33,3 +33,6 @@ ex. to searching for UFO sighting occurrences by date -- simply enter the desire
 ## Summary 
 Upon full deployment of the web application, I find there to be a drawback in which data is provided in the back-end. 
 A great future update may include a script to get "live data" or a method of scraping data so that new data is easily and efficiently added. 
+
+
+Additionally I would like to further develop the layout and design of the web page to make it more streamlined and enhanced. 
