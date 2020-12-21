@@ -3,7 +3,7 @@ Building a dynamic webpage to filter and display data  using JavaScript.
 
 ## Resources 
 - Javascript ES5, HTML, VS Code 1.51.1
-- [D3.js](https://d3js.org/), 
+- [D3.js](https://d3js.org/) JavaScript library 
 
 
 ## Overview 
@@ -23,6 +23,16 @@ HTML code is built-out to create structure and userend interface for the web app
 Combining the main components allows a web page to be rendered in which data can be transformed and cleanly displayed within a table. 
 The JavaScript aspects allow users to have the ability to filter "back-end" data through the web page. 
 
-![img_1]()
+Users can input a search criteria on the web page within the fields shown below. 
+The web page is able to filter by single parameter or multipe, returning the results (rows of data) that meet the provided paramters. 
+
+ex. to searching for UFO sighting occurences by date -- simply enter the desired date in 00/00/0000 format. 
+![search]()
+
 
 ## Summary 
+Upon full deployment of the web application, I find there to be a drawback in which data is provided in the back-end. 
+A great future update may include a script to get "live data" or a method of scraping data so that new data is easily and effincently added. 
+
+
+
