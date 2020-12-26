@@ -2,10 +2,115 @@
 body {
 
     color: #f7f7f7;
+    background-color: rgb(5, 5, 27);
 }
+
+
 /* class .jumbotron*/
 .jumbotron {
     background-image: url("../images/nasa.jpg");
     background-size: 100% 100%;
     text-align: center;
+    height: 400px;
+
   }
+/*   */
+
+.btn {
+    margin-right: 20px;
+    background-color: rgb(29, 29, 39);
+    opacity: 0.9;
+    color: lightblue;
+}
+
+
+li {
+    text-align: center;
+    align-items: center;
+}
+
+input {
+    text-align: center;
+}
+
+#table_div {
+    border-style: solid;
+    border-width: thin;
+    border-radius: 4px;
+    background-color: rgb(29, 29, 39);
+
+}
+
+#form {
+    background-color: rgb(29, 29, 39);
+    border-style: solid;
+    border-width: thin;
+    border-radius: 4px;
+}
+
+#form_header {
+    background-color: rgb(29, 29, 39);
+    
+    
+}
+
+ul {
+    outline: 1px solid white;
+    
+}
+
+li {
+    outline: 1px solid white;
+   
+    
+}
+
+#form_inner {
+    border-radius: 4px;
+    
+}
+
+
+.pre-scrollable {
+    max-height: 511px;
+    overflow-y: scroll;
+}
+
+/* custom margin, except for right so it next div isnt pushed over/ overlapping */
+
+
+#footer_div {
+    border-top-style: solid;
+    border-width: thin;
+    margin: 50px;
+    padding: 4px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#text_area {
+    border-style: solid;
+    border-width: thin;
+    border-radius: 9px;
+    padding: 10px;
+    background-color: rgb(29, 29, 39);
+}
+
+p {
+    font-size: 16px;
+}
+
+hr {
+    padding: 0px;
+    color: white;
+}
+#instruction_area {
+    border-style: solid;
+    border-width: thin;
+    border-radius: 4px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    background-color: rgb(29, 29, 39);
+    padding: 10px;
+    
+}
